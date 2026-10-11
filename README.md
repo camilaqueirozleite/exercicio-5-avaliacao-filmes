@@ -1,4 +1,4 @@
-# Exercicio 5 - Avaliação de filmes
+# Exercício 5 - Avaliação de filmes
 
 Projeto Node.js para calcular, a partir de um vetor de filmes:
 
